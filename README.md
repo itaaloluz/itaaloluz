@@ -1,9 +1,9 @@
 ```
 $ neofetch
 ```
+<p>
 
-<a href="https://github.com/itaaloluz/itaaloluz"><img src="https://i.ibb.co/r2bfj5Y/2d7b683fc534d862cad889fb60d2ea6c-upscayl-4x-realesrgan-x4plus.png" width="280px" align="left"></a>
-
+<a href="https://github.com/itaaloluz/itaaloluz"><img src="https://i.ibb.co/r2bfj5Y/2d7b683fc534d862cad889fb60d2ea6c-upscayl-4x-realesrgan-x4plus.png" width="268px" align="left"></a>
 ```
 itaaloluz@github
 -------------------------
@@ -12,7 +12,7 @@ Shell: bash 5.1
 Uptime: 15 years
 Pronouns: He/Him
 Location: Castanhal, PA
-Languages: JavaScript,
+Languages: JavaScript, Markdown
            HTML, CSS
 Learning: Node.js
 Hobbies: Streaming, Gaming
