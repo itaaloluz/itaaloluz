@@ -1,9 +1,7 @@
 ```
 $ neofetch
 ```
-<p>
-
-<a href="https://github.com/itaaloluz/itaaloluz"><img src="https://i.ibb.co/r2bfj5Y/2d7b683fc534d862cad889fb60d2ea6c-upscayl-4x-realesrgan-x4plus.png" width="268px" align="left"></a>
+<a href="https://github.com/itaaloluz/itaaloluz"><img src="https://i.ibb.co/r2bfj5Y/2d7b683fc534d862cad889fb60d2ea6c-upscayl-4x-realesrgan-x4plus.png" width="280px" align="left"></a>
 ```
 itaaloluz@github
 -------------------------
